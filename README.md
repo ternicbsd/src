@@ -18,7 +18,8 @@ TernixBSD is a modern, high‑performance operating system that combines the sta
 - **Linux applications** – Integrated Linux compatibility layer (based on the FreeBSD `linux(4)` framework).  
 - **macOS applications** – Experimental macOS binary compatibility, enabling a broader range of desktop and development tools to run directly on TernixBSD.
 
-> **Note:** While the macOS compatibility layer is functional, it is still under active development. Contributions and feedback are welcome.
+> **Note:** While the macOS compatibility layer is decent, it is still under active development. Contributions 
+and feedback are welcome.
 
 ## Getting Started  
 
